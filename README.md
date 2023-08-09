@@ -6,7 +6,7 @@ Config files for my GitHub profile.
 - 💞️ I’m looking to collaborate on projects based on Machine Learning.
 - 📫 How to reach me - Insta : skyadav_267, Email : skyadav955186gmail.com
 
-[![@shreyansh_35's Holopin board](https://holopin.io/api/user/board?user=shreyansh_35)](https://holopin.io/@shreyansh_35)
+[![@shreyansh_35's Holopin board](https://holopin.io/api/user/board?user=shreyansh_35)]
 
 <!---
 skyadav029/Surendra_029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
